@@ -1,5 +1,5 @@
 # Kelompok Aplikasi Bioskop
-Anggota kami terdiri dari :
+Anggota kelompok kami terdiri dari :
 - Widya Fahmidasari Alya Raushan (2200018266)
 
 # Tugas Kelompok Proyek PMOB_AplikasiBioskop
@@ -18,6 +18,13 @@ Bebeberapa kekurangan dari aplikasi yang masih bisa dikembangkan untuk kedepanny
 
   1. Penambahan fitur pemilihan kursi bagi pemesan tiket bioskop
   2. Penambahan fitur checkout untuk tiket bioskop beserta detail harga dan metode pembayarannya
+
+Beberapa kendala yang kami hadapi, yaitu :
+Penggunaan Firebase pada fitur Storage yang sekarang diharuskan membayar langganan terlebih dahulu agar dapat menggunakan fitur tersebut. Mengapa fitur tersebut kami perlukan, karena untuk melakukan upload gambar ke dalam sistem database, Firebase mangharuskan menggunakan fitur Storage tersebut.
+Isu tersebut kami temukan pada halaman reddit dibawah ini, yang dimana fitur Free dari storage / Spark Plan telah ditiadakan, dan pengguna harus mengupgrade ke Blaze pricing plan untuk menggunakannya seperti mestinya. Dari Official Firebase diumumkan pada tanggal 01 Oktober 2024.
+
+https://www.reddit.com/r/Firebase/comments/1gj9lja/firebase_storage_no_longer_accessible_under_spark/?rdt=36604
+
 
 # Dokumentasi Aplikasi Bioskop
 Berikut beberapa hasil dokumentasi aplikasi bioskop yang kami kerjakan :
