@@ -33,3 +33,7 @@ Berikut beberapa hasil dokumentasi aplikasi bioskop yang kami kerjakan :
 <p align="center">Intro Aplikasi</p>
 </p>
 
+<p align="center" width="100%">
+<img width="33%" src="https://github.com/Widyafahmidasari/tugasProyekPMOB_AplikasiBioskop/blob/main/Screenshots/Login%20Aplikasi.jpg">
+<p align="center">Halaman Login Aplikasi</p>
+</p>
