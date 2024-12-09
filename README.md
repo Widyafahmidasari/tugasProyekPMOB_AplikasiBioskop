@@ -28,5 +28,7 @@ https://www.reddit.com/r/Firebase/comments/1gj9lja/firebase_storage_no_longer_ac
 
 # Dokumentasi Aplikasi Bioskop
 Berikut beberapa hasil dokumentasi aplikasi bioskop yang kami kerjakan :
+<p align="center" width="100%">
+<img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
 
-![image](https://github.com/user-attachments/assets/bdc874c2-4a5e-4cc7-89ad-68975078d398)
