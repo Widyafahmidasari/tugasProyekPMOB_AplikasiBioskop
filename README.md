@@ -1,6 +1,8 @@
 # Kelompok Aplikasi Bioskop
 Anggota kelompok kami terdiri dari :
+- Dian Anisa Putri (2200018260)
 - Widya Fahmidasari Alya Raushan (2200018266)
+  
 
 # Tugas Kelompok Proyek PMOB_AplikasiBioskop
 Proyek ini dikerjakan sebagai salah satu prasayarat tugas akhir mata kuliah Pemorgraman Mobile 2024. Beberapa detail mengenai proyek kami sebagai berikut.
